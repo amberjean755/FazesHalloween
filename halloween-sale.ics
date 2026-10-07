@@ -10,7 +10,7 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:Faze's Halloween Sale
 LOCATION:Faze's Tobacco\, Menomonie\, WI
-DESCRIPTION:Our biggest sale yet! Hemp products can't be sold after Nov 11 - come stock up.\nGummies 40% off\, Hemp Vapes/Carts 30% off\, Prerolls 30% off\, Packaged Dabs 50% off\, House Dabs 75% off\, Flower 40% off\, Glass 30% off.\nPlus a full ounce of select strains for $150+tax.
+DESCRIPTION:Our biggest sale yet! Hemp products can't be sold after Nov 11 - come stock up.\nGummies 40% off\, Hemp Vapes/Carts 30% off\, Prerolls 30% off\, Packaged Dabs 50% off\, House Dabs 75% off\, Flower 40% off\, Glass 30% off.\nPlus a full ounce of select strains for as low as $100+tax.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
